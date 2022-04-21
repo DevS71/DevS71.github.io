@@ -50,4 +50,5 @@ The process of rewriting this software was full of learning experiences. I first
 5. [CollectionEdit_Handlers.java](https://github.com/DevS71/DevS71.github.io/blob/main/CollectionEdit_Handlers.java)
 
 #### Original Source Files for Project 3
-
+1. [Mongo_db_Interface.py](https://github.com/DevS71/DevS71.github.io/blob/main/Mongo_db_Interface.py)
+2. [ProjectTwoDashboard.ipynb](https://github.com/DevS71/DevS71.github.io/blob/main/ProjectTwoDashboard.ipynb.txt)
