@@ -18,6 +18,7 @@ placeholder for file contents
 ### 2.Code Review
 placeholder for link to code review
 
+
 ### 3. Project 1: Software Design and Engineering
 Placeholder for narrative, not complete yet
 
@@ -31,6 +32,15 @@ Placeholder for narrative, not complete yet
 7. [ContactService.java](ContactService_e.java)
 8. [Task.java](Task_e.java)
 9. [TaskService.java](TaskService_e.java)
+
+#### Original Source Files for Project 1
+1. [Appointment.java](Appointment.java)
+2. [AppointmentService.java](AppointmentService.java)
+3. [Contact.java](Contact.java)
+4. [ContactService.java](ContactService.java)
+5. [Task.java](Task.java)
+6. [TaskService.java](TaskService.java)
+
 
 ### 4. Project 2: Data Structures and Algorithms
 The artifact I have submitted for week for is a re-work of the final project submitted for the CS-320 course. This project was a digital planner storing information for appointments, contacts, and a to-do list. The original work was created in February of 2021. This project was also used for my first enhancement, and I have built upon that for this one.
@@ -48,7 +58,13 @@ I learned quite a bit working with the data structure involved in this project. 
 4. [Project_ui.java](Project2_ui.java)
 5. [Project_FileShare](Project2_FileShare.java)
 
-#### Original Source Files for Project 2
+#### Original Source Files for Project 2 (The same files as project 1)
+1. [Appointment.java](Appointment.java)
+2. [AppointmentService.java](AppointmentService.java)
+3. [Contact.java](Contact.java)
+4. [ContactService.java](ContactService.java)
+5. [Task.java](Task.java)
+6. [TaskService.java](TaskService.java)
 
 
 ### 5. Project 3: Databases
@@ -57,7 +73,6 @@ The artifact I selected for the Database portion of my portfolio is the Python C
 In completing this project, I have met all of my planned outcomes for the course. I have employed strategies for building collaborative environments. I accomplished this through the use of commenting my code so that other developers can easily understand, implement, and edit. I have demonstrated the ability to design, develop, and deliver professional-quality communications. This was achieved in this enhancement with the header to each class file. These headers describe the purpose of the class and how to use it, allowing any developer to easily implement it. I have shown the ability to design and evaluate computing solutions to solve a given problem. This program displays this outcome through the use of the Java object that stores the record values and the use of Vectors to store lists of the search results as values. I have demonstrated the ability to use techniques, skills, and tools to implement a computing solution. This program demonstrates that with the modular design, using classes that can be re-used accomplishes the industry goal of re-useability and adds value to the product. I have also developed a security mindset that anticipates exploits. This is demonstrated by not passing user entered data directly to any database commands and the programs ability to handle exceptions without crashing. 
 
 The process of rewriting this software was full of learning experiences. I first needed to learn how the mongo driver for Java functioned, in order to make calls to the database. The hardest part of this for me was any operation that performed writes. This part took several days of pouring through documentation and searching Stack Overflow for similar issues. I then had to learn the logging system the driver used. This was something I wasn’t prepared for, however without implementing this system the driver would issue warnings. This system was something I had never used or researched. To overcome this, I spent a fair amount of time reading the documentation to get this properly set up and configured. This was further hindered by the fact that the logging system uses two separate pieces of software to perform its task. In the end, all the issues I encountered were solved with proper research of both the documentation and similar problems others have encountered. 
-
 
 #### Enhanced Source Files for Project 3
 1. [Project_main.java](Project_Main.java)
