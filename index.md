@@ -32,10 +32,10 @@ I learned quite a bit working with the data structure involved in this project. 
 
 #### Enhanced Source Files for Project 2
 1. [Project_Main.java](Project2_Main.java)
-2. [Node.java](https://github.com/DevS71/DevS71.github.io/blob/main/Node.java)
-3. [Vector_Map.java](https://github.com/DevS71/DevS71.github.io/blob/main/VectorMap.java)
-4. [Project_ui.java](https://github.com/DevS71/DevS71.github.io/blob/main/Project2_ui.java)
-5. [Project_FileShare](https://github.com/DevS71/DevS71.github.io/blob/main/Project2_FileShare.java)
+2. [Node.java](Node.java)
+3. [Vector_Map.java](VectorMap.java)
+4. [Project_ui.java](Project2_ui.java)
+5. [Project_FileShare](Project2_FileShare.java)
 
 #### Original Source Files for Project 2
 
@@ -49,12 +49,12 @@ The process of rewriting this software was full of learning experiences. I first
 
 
 #### Enhanced Source Files for Project 3
-1. [Project_main.java](https://github.com/DevS71/DevS71.github.io/blob/main/Project_Main.java)
-2. [Rental.java](https://github.com/DevS71/DevS71.github.io/blob/main/Rental.java)
-3. [IO_System.java](https://github.com/DevS71/DevS71.github.io/blob/main/IO_System.java)
-4. [Search_Handler.java](https://github.com/DevS71/DevS71.github.io/blob/main/Search_Handler.java)
-5. [CollectionEdit_Handlers.java](https://github.com/DevS71/DevS71.github.io/blob/main/CollectionEdit_Handlers.java)
+1. [Project_main.java](Project_Main.java)
+2. [Rental.java](Rental.java)
+3. [IO_System.java](IO_System.java)
+4. [Search_Handler.java](Search_Handler.java)
+5. [CollectionEdit_Handlers.java](CollectionEdit_Handlers.java)
 
 #### Original Source Files for Project 3
-1. [Mongo_db_Interface.py](https://github.com/DevS71/DevS71.github.io/blob/main/Mongo_db_Interface.py)
-2. [ProjectTwoDashboard.ipynb](https://github.com/DevS71/DevS71.github.io/blob/main/ProjectTwoDashboard.ipynb.txt)
+1. [Mongo_db_Interface.py](Mongo_db_Interface.py)
+2. [ProjectTwoDashboard.ipynb](ProjectTwoDashboard.ipynb.txt)
