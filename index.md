@@ -19,7 +19,16 @@ placeholder for link to code review
 ### 3. Project 1: Software Design and Engineering
 Placeholder for narrative, not complete yet
 
-placehoder for links to class files
+#### Enhanced Source Files for Project 1
+1. [Project_Main.java](Project1_Main_e.java)
+2. [Project_ui.java](Project1_ui_e.java)
+3. [Project_FileShare.java](Project1_FileShare_e)
+4. [Appointment.java](Appointment_e.java)
+5. [AppointmentService.java](AppointmentService_e.java)
+6. [Contact.java](Contact_e.java)
+7. [ContactService.java](ConatactService_e.java)
+8. [Task.java](Task_e.java)
+9. [TaskService.java](TaskService_e.java)
 
 ### 4. Project 2: Data Structures and Algorithms
 The artifact I have submitted for week for is a re-work of the final project submitted for the CS-320 course. This project was a digital planner storing information for appointments, contacts, and a to-do list. The original work was created in February of 2021. This project was also used for my first enhancement, and I have built upon that for this one.
