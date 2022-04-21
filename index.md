@@ -35,7 +35,7 @@ The process of rewriting this software was full of learning experiences. I first
 
 
 #### Enhanced Source Files for this Project
-Project_main.java
+[Project_main.java](https://github.com/DevS71/DevS71.github.io/Project3_Main_Java)
 '''
 /*
  *Author: Devin Schmidt 
