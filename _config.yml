@@ -1,4 +1,5 @@
 theme: jekyll-theme-midnight
 title: Welcome to DevS71's homepage!
 description: Feel free to bookmark this page to keep an eye on my project updates.
-email: devspit71@gmail.com
+owner:
+  email: devspit71@gmail.com
