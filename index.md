@@ -32,8 +32,8 @@ I learned quite a bit working with the data structure involved in this project. 
 
 #### Enhanced Source Files for Project 2
 1. [Project_Main.java](https://github.com/DevS71/DevS71.github.io/blob/main/Project2_Main.java)
-2. [Node.java](https://github.com/DevS71/DevS71.github.io/blob/main/Node.jave)
-3. [Vector_Map.java](https://github.com/DevS71/DevS71.github.io/blob/main/Vector_Map.java)
+2. [Node.java](https://github.com/DevS71/DevS71.github.io/blob/main/Node.java)
+3. [Vector_Map.java](https://github.com/DevS71/DevS71.github.io/blob/main/VectorMap.java)
 4. [Project_ui.java](https://github.com/DevS71/DevS71.github.io/blob/main/Project2_ui.java)
 5. [Project_FileShare](https://github.com/DevS71/DevS71.github.io/blob/main/Project2_FileShare.java)
 
