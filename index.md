@@ -3,7 +3,7 @@
 An example of the projects that demonstrate the skills and abilitys I use in developing software.
 
 #### Table of Contents
-1.	Professional Self-Assessment
+1.	[Professional Self-Assessment](https://github.com/DevS71/DevS71.github.io/edit/main/index.md#-1-Professional-Self-Assessment)
 2.	Code Review
 3.	Project 1: Software Design and Engineering
 4.	Project 2: Data Structures and Algorithms
