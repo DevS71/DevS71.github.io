@@ -35,10 +35,10 @@ The process of rewriting this software was full of learning experiences. I first
 
 
 #### Enhanced Source Files for this Project
-[Project_main.java](https://github.com/DevS71/DevS71.github.io/blob/main/Project3_Main_Java)
-[Rental.java](https://github.com/DevS71/DevS71.github.io/blob/main/Rental.java)
-[IO_System.java](https://github.com/DevS71/DevS71.github.io/blob/main/IO_System.java)
-[Search_Handler.java](https://github.com/DevS71/DevS71.github.io/blob/main/Search_Handler.java)
-[CollectionEdit_Handlers.java](https://github.com/DevS71/DevS71.github.io/blob/main/CollectionEdit_Handlers.java)
+1. [Project_main.java](https://github.com/DevS71/DevS71.github.io/blob/main/Project3_Main_Java)
+2. [Rental.java](https://github.com/DevS71/DevS71.github.io/blob/main/Rental.java)
+3. [IO_System.java](https://github.com/DevS71/DevS71.github.io/blob/main/IO_System.java)
+4. [Search_Handler.java](https://github.com/DevS71/DevS71.github.io/blob/main/Search_Handler.java)
+5. [CollectionEdit_Handlers.java](https://github.com/DevS71/DevS71.github.io/blob/main/CollectionEdit_Handlers.java)
 placeholder for links to class files
 
