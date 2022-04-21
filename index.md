@@ -1,6 +1,7 @@
 ## Devin Schmidt's ePortfolio
 
 An example of the projects that demonstrate the skills and abilitys I use in developing software.
+
 Email Devin at devspit71@gmail.com
 
 #### Table of Contents
