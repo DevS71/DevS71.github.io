@@ -22,11 +22,11 @@ Placeholder for narrative, not complete yet
 #### Enhanced Source Files for Project 1
 1. [Project_Main.java](Project1_Main_e.java)
 2. [Project_ui.java](Project1_ui_e.java)
-3. [Project_FileShare.java](Project1_FileShare_e)
+3. [Project_FileShare.java](Project1_FileShare_e.java)
 4. [Appointment.java](Appointment_e.java)
 5. [AppointmentService.java](AppointmentService_e.java)
 6. [Contact.java](Contact_e.java)
-7. [ContactService.java](ConatactService_e.java)
+7. [ContactService.java](ContactService_e.java)
 8. [Task.java](Task_e.java)
 9. [TaskService.java](TaskService_e.java)
 
