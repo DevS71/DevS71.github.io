@@ -4,9 +4,9 @@ An example of the projects that demonstrate the skills and abilitys I use in dev
 
 #### Table of Contents
 1.	[Professional Self-Assessment](#1-professional-self-assessment)
-2.	[Code Review](https://devs71.github.io#2-code-review)
-3.	[Project 1: Software Design and Engineering](https://devs71.github.io#3-project-1-software-design-and-engineering)
-4.	[Project 2: Data Structures and Algorithms](https://devs71.github.io#4-project-2-data-structures-and-algorithms)
+2.	[Code Review](#2-code-review)
+3.	[Project 1: Software Design and Engineering](#3-project-1-software-design-and-engineering)
+4.	[Project 2: Data Structures and Algorithms](#4-project-2-data-structures-and-algorithms)
 5.	[Project 3: Databases](#5-project-3-databases)
 
 ### 1. Profesional Self-Assessment
