@@ -53,7 +53,7 @@ I have 2 examples. The first example comes from course CS-210, a course in progr
 
 This example shows my ability to create, develop, and deliver professional quality communication. This ensures the required functionality is delivered before any programing begins. My next example is from CS-360, mobile architecture and programming. This example shows a mock up of a screen design for a news aggregate app:
 
-![Mobile App Mock-up](/docs/assets/images/Flipboard_Redesign.jpeg)
+![Mobile App Mock-up](/docs/assets/images/Mobil_Mock_Up.jpg)
 
 This example highlights my ability to communicate appropriately with specific audiences. Together the two above examples demonstrate I can effectively and concisely communicate my ideas.
 
