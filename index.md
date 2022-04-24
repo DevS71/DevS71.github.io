@@ -16,7 +16,7 @@ placeholder for file contents
 
 
 ### 2.Code Review
-placeholder for link to code review
+[Code Review video](https://youtu.be/1YjFPcJO0So)
 
 
 ### 3. Project 1: Software Design and Engineering
