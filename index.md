@@ -145,6 +145,7 @@ During the enhancement of this project, I had a few learning opportunities. Firs
 11. [TaskTest.java](/docs/originalTest/TaskTest.java)
 12. [TaskServiceTest.java](/docs/originalTest/TaskServiceTest.java)
 
+[Back to top](#1-professional-self-assessment)
 
 ### 4. Project 2: Data Structures and Algorithms
 The artifact I have submitted for week for is a re-work of the final project submitted for the CS-320 course. This project was a digital planner storing information for appointments, contacts, and a to-do list. The original work was created in February of 2021. This project was also used for my first enhancement, and I have built upon that for this one.
