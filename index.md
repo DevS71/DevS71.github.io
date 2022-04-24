@@ -93,7 +93,6 @@ Software engineering is the process of designing, developing, and releasing stab
  
  For my third artifact I selected the final project from CS-340: Client/Server development. This project uses Python to create a connection to a local MongoDB database and uses Python for a user interface. To enhance this artifact, I will rewrite the project in Java and connect to a remote database. This will demonstrate my ability to code for databases in multiple languages as well as showing the ability to connect to both local and remote databases. 
 
-[Back to top](#1-professional-self-assessment)
 
 ### 2. Code Review
 [Link to Code Review video](https://youtu.be/1YjFPcJO0So)
@@ -145,7 +144,6 @@ During the enhancement of this project, I had a few learning opportunities. Firs
 11. [TaskTest.java](/docs/originalTest/TaskTest.java)
 12. [TaskServiceTest.java](/docs/originalTest/TaskServiceTest.java)
 
-[Back to top](#1-professional-self-assessment)
 
 ### 4. Project 2: Data Structures and Algorithms
 The artifact I have submitted for week for is a re-work of the final project submitted for the CS-320 course. This project was a digital planner storing information for appointments, contacts, and a to-do list. The original work was created in February of 2021. This project was also used for my first enhancement, and I have built upon that for this one.
