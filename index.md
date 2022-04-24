@@ -113,7 +113,7 @@ I have also demonstrated the ability to use well-founded techniques, skills, and
 
 During the enhancement of this project, I had a few learning opportunities. First, I learned how hard it is to go back to a language I haven’t used in about a year. This was probably the most frustrating experience during the development of the project. Second, I learned that Stack Overflow (and similar sites) and Java docs are a great resource. When I was struggling these resources provided a direction to move in, though not always the answer. The one challenge that sticks out in my mind had to do with the scanner utility in Java. For some reason it would decide to not wait for input from time to time. I never found a reason for this in all my research, but I was able to solve the problem by placing a loop that only ended when there was input before the scanner. 
 
-#### Enhanced Source Files for Project 1
+#### Links to Enhanced Source Files for Project 1
 1. [Project_Main.java](Project1_Main_e.java)
 2. [Project_ui.java](Project1_ui_e.java)
 3. [Project_FileShare.java](Project1_FileShare_e.java)
@@ -130,7 +130,7 @@ During the enhancement of this project, I had a few learning opportunities. Firs
 14. [TaskTest.java](/docs/enhancedTests/TaskTest.java)
 15. [TaskServiceTest.java](/docs/enhancedTests/TaskServiceTest.java)
 
-#### Original Source Files for Project 1
+#### Links to Original Source Files for Project 1
 1. [Appointment.java](Appointment.java)
 2. [AppointmentService.java](AppointmentService.java)
 3. [Contact.java](Contact.java)
@@ -160,14 +160,14 @@ I also demonstrated the ability to use professional-quality communications that 
 
 I learned quite a bit working with the data structure involved in this project. I had never used a two-dimensional vector or array before. At first, I thought I might be able to use the different data objects I had originally developed. While this may be possible, I found it easier and more efficient to redesign the data object into one that filled all three rolls. I initially thought about making this a three-dimensional array but decided to use a linked list as the third dimension. This allowed me to re-use more of my original code and I believe it will help keep the memory footprint of the program down. The biggest challenge I had was in the implementation of the linked lists for the different services. I originally was using a single list that I would blank out, however it kept leaking data from one service to the next. I solved this by initializing the two-dimensional vector with three different linked lists when I added a new user. I was also having issues trying to use three different data objects in the data structure. It wanted to keep giving me warnings, so I designed a single data object to fill all three rolls.
 
-#### Enhanced Source Files for Project 2
+#### Links to Enhanced Source Files for Project 2
 1. [Project_Main.java](Project2_Main.java)
 2. [Node.java](Node.java)
 3. [Vector_Map.java](VectorMap.java)
 4. [Project_ui.java](Project2_ui.java)
 5. [Project_FileShare](Project2_FileShare.java)
 
-#### Original Source Files for Project 2 (The same files as project 1)
+#### Links to Original Source Files for Project 2 (The same files as project 1)
 1. [Appointment.java](Appointment.java)
 2. [AppointmentService.java](AppointmentService.java)
 3. [Contact.java](Contact.java)
@@ -195,13 +195,13 @@ I also demonstrate the ability to use well-founded techniques, skills, and tools
 
 The process of rewriting this software was full of learning experiences. I first needed to learn how the mongo driver for Java functioned, in order to make calls to the database. The hardest part of this for me was any operation that performed writes. This part took several days of pouring through documentation and searching Stack Overflow for similar issues. I then had to learn the logging system the driver used. This was something I wasn’t prepared for, however without implementing this system the driver would issue warnings. This system was something I had never used or researched. To overcome this, I spent a fair amount of time reading the documentation to get this properly set up and configured. This was further hindered by the fact that the logging system uses two separate pieces of software to perform its task. In the end, all the issues I encountered were solved with proper research of both the documentation and similar problems others have encountered. 
 
-#### Enhanced Source Files for Project 3
+#### Links to Enhanced Source Files for Project 3
 1. [Project_main.java](Project_Main.java)
 2. [Rental.java](Rental.java)
 3. [IO_System.java](IO_System.java)
 4. [Search_Handler.java](Search_Handler.java)
 5. [CollectionEdit_Handlers.java](CollectionEdit_Handlers.java)
 
-#### Original Source Files for Project 3
+#### Links to Original Source Files for Project 3
 1. [Mongo_db_Interface.py](Mongo_db_Interface.txt)
 2. [ProjectTwoDashboard.ipynb](ProjectTwoDashboard.ipynb.txt)
