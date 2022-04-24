@@ -124,6 +124,11 @@ During the enhancement of this project, I had a few learning opportunities. Firs
 8. [Task.java](Task_e.java)
 9. [TaskService.java](TaskService_e.java)
 10. [AppointmentTest.java](/docs/enhancedTests/AppointmentTest.java)
+11. [AppointmentServiceTest.java](/docs/enhancedTests/AppointmentServiceTest.java)
+12. [ContactTest.java](/docs/enhancedTests/ContactTest.java)
+13. [ContactServiceTest.java](/docs/enhancedTests/ContactServiceTest.java)
+14. [TaskTest.java](/docs/enhancedTests/TaskTest.java)
+15. [TaskServiceTest.java](/docs/enhancedTests/TaskServiceTest.java)
 
 #### Original Source Files for Project 1
 1. [Appointment.java](Appointment.java)
@@ -133,6 +138,11 @@ During the enhancement of this project, I had a few learning opportunities. Firs
 5. [Task.java](Task.java)
 6. [TaskService.java](TaskService.java)
 7. [AppointmentTest.java](/docs/originalTest/AppointmentTest.java)
+8. [AppointmentServiceTest.java](/docs/originalTest/AppointmentServiceTest.java)
+9. [ContactTest.java](/docs/originalTest/ContactTest.java)
+10. [ContactServiceTest.java](/docs/originalTest/ContactServiceTest.java)
+11. [TaskTest.java](/docs/originalTest/TaskTest.java)
+12. [TaskServiceTest.java](/docs/originalTest/TaskServiceTest.java)
 
 
 ### 4. Project 2: Data Structures and Algorithms
@@ -164,6 +174,12 @@ I learned quite a bit working with the data structure involved in this project. 
 4. [ContactService.java](ContactService.java)
 5. [Task.java](Task.java)
 6. [TaskService.java](TaskService.java)
+7. [AppointmentTest.java](/docs/originalTest/AppointmentTest.java)
+8. [AppointmentServiceTest.java](/docs/originalTest/AppointmentServiceTest.java)
+9. [ContactTest.java](/docs/originalTest/ContactTest.java)
+10. [ContactServiceTest.java](/docs/originalTest/ContactServiceTest.java)
+11. [TaskTest.java](/docs/originalTest/TaskTest.java)
+12. [TaskServiceTest.java](/docs/originalTest/TaskServiceTest.java)
 
 
 ### 5. Project 3: Databases
