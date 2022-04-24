@@ -20,7 +20,19 @@ placeholder for file contents
 
 
 ### 3. Project 1: Software Design and Engineering
-Placeholder for narrative, not complete yet
+The artifact I have selected for this milestone is the final project for CS-320. This project was initially created in February of 2021. It is a collection of three independent modules designed to be integrated into a larger program. Collectively these modules make up the backbone of a planner by keeping track of appointments, to-do tasks, and a list of contacts.
+
+I have included this artifact in my capstone because it demonstrates my ability to engineer complete software that follows algorithmic principles. This project showcases my ability to develop stable and secure software using a modular design that can easily be maintained and updated. The artifact will be improved on the original by bringing the independent modules together with a user interface and will add the ability to save the data to disc.
+
+In completing this project, I was able to meet some course outcomes. I was able to design and evaluate computing solutions that solve a given problem while managing the tradeoffs. I accomplished this with using pseudocode to design the main method that binds the modules together. I was able to use the pseudocode to segment the software to develop three new classes that provide the user interface, ability to save data, and bind the project in a main method. The pseudocode produced for this:
+
+![Project1_Psuedocode](/docs/assets/images/Project1_psuedocode.jpg)
+
+I have also demonstrated the ability to use well-founded techniques, skills, and tools for the purpose of implementing solutions that deliver value. I accomplished this with robust and efficient code that delivers value. Which is shown by the use of error handling try catch blocks on the file access methods to handle exceptions without crashing the program:
+
+![Project 1 try/catch block](/docs/assets/images/Project1_tryCatch.jpg)
+
+During the enhancement of this project, I had a few learning opportunities. First, I learned how hard it is to go back to a language I haven’t used in about a year. This was probably the most frustrating experience during the development of the project. Second, I learned that Stack Overflow (and similar sites) and Java docs are a great resource. When I was struggling these resources provided a direction to move in, though not always the answer. The one challenge that sticks out in my mind had to do with the scanner utility in Java. For some reason it would decide to not wait for input from time to time. I never found a reason for this in all my research, but I was able to solve the problem by placing a loop that only ended when there was input before the scanner. 
 
 #### Enhanced Source Files for Project 1
 1. [Project_Main.java](Project1_Main_e.java)
@@ -78,7 +90,7 @@ The artifact I selected for the Database portion of my portfolio is the Python C
 
 In completing this project, I accomplished some of the course outcomes. I was able to use a security mindset that anticipates adversarial exploits. I accomplished this by ensuring that user data is validated before using it. This was done by verifying user input before using it as data. For integer input I accepted a string as input, checked that it contained nothing but integers and then use the input. If this input isn’t integers, it will output a warning message.
 
-![Integer Input Method](/docs/assets/images/Project3_IntInput.jpg)
+![Integer Input Method](/docs/assets/images/Project3_IntInputB.jpg)
 
 I also demonstrate the ability to use well-founded techniques, skills, and tools to implement computer solutions that deliver value. I was able to accomplish this by creating robust and efficient code that delivers value. This is shown in how I use try/catch blocks when accessing the database to handle any exception that may occur during the connection.
 
