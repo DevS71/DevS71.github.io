@@ -123,6 +123,7 @@ During the enhancement of this project, I had a few learning opportunities. Firs
 7. [ContactService.java](ContactService_e.java)
 8. [Task.java](Task_e.java)
 9. [TaskService.java](TaskService_e.java)
+10. [AppointmentTest.java](/docs/enhancedTests/AppointmentTest.java)
 
 #### Original Source Files for Project 1
 1. [Appointment.java](Appointment.java)
@@ -131,6 +132,7 @@ During the enhancement of this project, I had a few learning opportunities. Firs
 4. [ContactService.java](ContactService.java)
 5. [Task.java](Task.java)
 6. [TaskService.java](TaskService.java)
+7. [AppointmentTest.java](/docs/originalTests/AppointmentTest.java)
 
 
 ### 4. Project 2: Data Structures and Algorithms
