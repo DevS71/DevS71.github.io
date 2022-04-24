@@ -12,9 +12,9 @@ package taskService;
 
 public class Task {
 	//Fields for Task object
-	String taskID;
-	String taskName;
-	String taskDesc;
+	String taskID;//Cannot be null or greater than 10 characters
+	String taskName;//Cannot be null or greater than 20 characters
+	String taskDesc;//Cannot be null or greater than 50 characters
 	
 	//default constructor
 	public Task() {
